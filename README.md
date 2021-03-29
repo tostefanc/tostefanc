@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tostefanc
 - 👀 I’m interested in everything IT
 - 🏡 Currently working from home as a Sys Admin
-- 🌱 I’m currently learning Web Development
+- 🌱 Learning Web Development
 - 💞️ I’m looking to collaborate on Web Development projects
 - 📫 Send me an email at stefan.toma100@gmail.com
 
