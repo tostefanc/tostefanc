@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @tostefanc
 - 👀 I’m interested in everything IT
-- 🏡 Currently working from home as a Sys Admin
-- 🌱 Learning Web Development
-- 💞️ I’m looking to collaborate on Web Development projects
-- 📫 Send me an email at stefan.toma100@gmail.com
+- 🏡 Currently working from home as a System Integrator
+
 
 <!---
 tostefanc/tostefanc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
